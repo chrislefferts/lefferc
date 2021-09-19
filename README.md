@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lefferc
+- 👋 Hi, I’m @chrislefferts
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning C/C++ and Python
 - 💞️ I’m looking to collaborate on IoT projects
